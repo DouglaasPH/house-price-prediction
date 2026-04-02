@@ -1,0 +1,12 @@
+streamlit
+pandas
+seaborn
+numpy
+matplotlib
+ydata-profiling
+plotly
+scipy
+scikit-learn
+pyngrok
+certifi
+python-dotenv
